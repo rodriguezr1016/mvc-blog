@@ -1,0 +1,24 @@
+{
+  "name": "mvc-blog",
+  "version": "1.0.0",
+  "description": "## Description This is a basic CMS-style Tech blog. You are presented with a homepage that shows all the current posts. A nav bar at the top gives you the option of going to the homepage, dashboard or login.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^8.2.0",
+    "es-abstract": "^1.18.0-next.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "express-session": "^1.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
+}
