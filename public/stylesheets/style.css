@@ -29,11 +29,11 @@ header a:hover {
 .home-title {
   font-size: 3rem;
   color: white;
-  background-color:rgb(166, 138, 101);
+  
   padding: 10px;
   display: inline-block;
   border-radius: 5px;
-  box-shadow: 5px 7px rgb(225, 194, 154);
+
   margin-bottom: 5%;
 }
 
