@@ -12,7 +12,7 @@
 ## Description
   A CMS-style website thst follows the MVC structure, uses sequelize, handlebars, and express-session to allow users to publish blog posts and comment on other blog posts
 ## Deployed Application URL
-  
+  https://mvc-blog1-3af6f1c6b6b6.herokuapp.com/
 ## Link to Repo
   https://github.com/rodriguezr1016/mvc-blog
 ## Screenshot
